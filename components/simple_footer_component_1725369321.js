@@ -21,6 +21,11 @@ INSTRUCTION: Both of these lines are center aligned.
                     © 2023 EthTrackr. Empowering users to discover and monitor new Ethereum transactions in real-time.
                 </div>
             </div>
+            <div class="flex justify-center mt-4">
+                <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded shadow">
+                    Submit
+                </button>
+            </div>
         </div>
     </footer>
 </template>
