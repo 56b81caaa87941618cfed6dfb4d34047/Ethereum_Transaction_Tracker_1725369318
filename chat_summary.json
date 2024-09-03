@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Absolutely, I\u2019m adding a button labeled 'Submit' now.",
+        "timestamp": "03092024131553",
+        "message_id": "guest03092024131552"
+    },
+    {
         "role": "user",
         "content": "add a button that says Submit",
         "timestamp": "03092024131552",
