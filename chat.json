@@ -6,5 +6,14 @@
         "timestamp": "1725369321",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button that says Submit",
+        "message_id": "guest03092024131552",
+        "timestamp": "03092024131552",
+        "component_file_name": "simple_footer_component_1725369321",
+        "div_id": "",
+        "div_action": ""
     }
 ]
