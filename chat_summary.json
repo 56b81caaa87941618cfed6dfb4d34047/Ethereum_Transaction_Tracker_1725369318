@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the Submit button to be positioned within the app?\", \"option1\": \"At the top of the page\", \"option2\": \"At the bottom of the page\"}, {\"question 2\": \"What color or style do you envision for the Submit button?\", \"option1\": \"A primary color like blue or red\", \"option2\": \"A neutral color like gray or white\"}], \"input_token_count\": 291, \"output_token_count\": 96, \"time_taken\": \"0:00:01.245569\"}",
+        "timestamp": "03092024131559",
+        "message_id": "guest03092024131552"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Absolutely, I\u2019m adding a button labeled 'Submit' now.",
         "timestamp": "03092024131553",
